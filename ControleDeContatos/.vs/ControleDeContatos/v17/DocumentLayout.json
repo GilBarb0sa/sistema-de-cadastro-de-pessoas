@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Saskaroth\\ADS\\Asp.Net\\Crud\\ControleDeContatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2954A279-FEB2-459A-9716-9751DC070D16}|ControleDeContatos\\ControleDeContatos.csproj|c:\\saskaroth\\ads\\asp.net\\crud\\controledecontatos\\controledecontatos\\views\\contato\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2954A279-FEB2-459A-9716-9751DC070D16}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2954A279-FEB2-459A-9716-9751DC070D16}|ControleDeContatos\\ControleDeContatos.csproj|c:\\saskaroth\\ads\\asp.net\\crud\\controledecontatos\\controledecontatos\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2954A279-FEB2-459A-9716-9751DC070D16}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2954A279-FEB2-459A-9716-9751DC070D16}|ControleDeContatos\\ControleDeContatos.csproj|c:\\saskaroth\\ads\\asp.net\\crud\\controledecontatos\\controledecontatos\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2954A279-FEB2-459A-9716-9751DC070D16}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2954A279-FEB2-459A-9716-9751DC070D16}|ControleDeContatos\\ControleDeContatos.csproj|c:\\saskaroth\\ads\\asp.net\\crud\\controledecontatos\\controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2954A279-FEB2-459A-9716-9751DC070D16}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2954A279-FEB2-459A-9716-9751DC070D16}|ControleDeContatos\\ControleDeContatos.csproj|c:\\saskaroth\\ads\\asp.net\\crud\\controledecontatos\\controledecontatos\\repositorio\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2954A279-FEB2-459A-9716-9751DC070D16}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\repositorio\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApagarConfirmacao.cshtml",
+              "DocumentMoniker": "C:\\Saskaroth\\ADS\\Asp.Net\\Crud\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "ToolTip": "C:\\Saskaroth\\ADS\\Asp.Net\\Crud\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T02:46:05.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Saskaroth\\ADS\\Asp.Net\\Crud\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\Editar.cshtml",
+              "ToolTip": "C:\\Saskaroth\\ADS\\Asp.Net\\Crud\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Editar.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T02:23:39.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Saskaroth\\ADS\\Asp.Net\\Crud\\ControleDeContatos\\ControleDeContatos\\Repositorio\\ContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Repositorio\\ContatoRepositorio.cs",
+              "ToolTip": "C:\\Saskaroth\\ADS\\Asp.Net\\Crud\\ControleDeContatos\\ControleDeContatos\\Repositorio\\ContatoRepositorio.cs",
+              "RelativeToolTip": "ControleDeContatos\\Repositorio\\ContatoRepositorio.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAD4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T02:13:44.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Saskaroth\\ADS\\Asp.Net\\Crud\\ControleDeContatos\\ControleDeContatos\\Repositorio\\IContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Repositorio\\IContatoRepositorio.cs",
+              "ToolTip": "C:\\Saskaroth\\ADS\\Asp.Net\\Crud\\ControleDeContatos\\ControleDeContatos\\Repositorio\\IContatoRepositorio.cs",
+              "RelativeToolTip": "ControleDeContatos\\Repositorio\\IContatoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T02:12:16.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Saskaroth\\ADS\\Asp.Net\\Crud\\ControleDeContatos\\ControleDeContatos\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Saskaroth\\ADS\\Asp.Net\\Crud\\ControleDeContatos\\ControleDeContatos\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "ControleDeContatos\\Controllers\\ContatoController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T02:11:21.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

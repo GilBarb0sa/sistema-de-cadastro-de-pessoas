@@ -1,33 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\40357200896\\Documents\\Gilberto\\Asp.NET MVC\\MeuSiteEmMVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {}
+    "C:\\Saskaroth\\ADS\\Asp.Net\\Crud\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\40357200896\\Documents\\Gilberto\\Asp.NET MVC\\MeuSiteEmMVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {
+    "C:\\Saskaroth\\ADS\\Asp.Net\\Crud\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\40357200896\\Documents\\Gilberto\\Asp.NET MVC\\MeuSiteEmMVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+        "projectUniqueName": "C:\\Saskaroth\\ADS\\Asp.Net\\Crud\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
         "projectName": "ControleDeContatos",
-        "projectPath": "C:\\Users\\40357200896\\Documents\\Gilberto\\Asp.NET MVC\\MeuSiteEmMVC\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
-        "packagesPath": "C:\\Users\\40357200896\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\40357200896\\Documents\\Gilberto\\Asp.NET MVC\\MeuSiteEmMVC\\ControleDeContatos\\ControleDeContatos\\obj\\",
+        "projectPath": "C:\\Saskaroth\\ADS\\Asp.Net\\Crud\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+        "packagesPath": "C:\\Users\\Saskaroth\\.nuget\\packages\\",
+        "outputPath": "C:\\Saskaroth\\ADS\\Asp.Net\\Crud\\ControleDeContatos\\ControleDeContatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\40357200896\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Saskaroth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -77,7 +81,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -89,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

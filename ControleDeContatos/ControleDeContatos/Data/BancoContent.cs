@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace ControleDeContatos.Data
 {
-    public class BancoContext : DbContext
+    public class BancoContent : DbContext
     {
-        public BancoContext(DbContextOptions<BancoContext> options) : base(options) //Injeção de parametro de entrada
+        public BancoContent(DbContextOptions<BancoContent> options) : base(options) //Injeção de parametro de entrada
         {           
         }
 
