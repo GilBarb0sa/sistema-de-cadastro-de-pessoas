@@ -1114,3 +1114,5 @@ C:\Saskaroth\ADS\Asp.Net\Crud\ControleDeContatos\ControleDeContatos\obj\Debug\ne
 C:\Saskaroth\ADS\Asp.Net\Crud\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\ControleDeContatos.pdb
 C:\Saskaroth\ADS\Asp.Net\Crud\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\ControleDeContatos.genruntimeconfig.cache
 C:\Saskaroth\ADS\Asp.Net\Crud\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\ref\ControleDeContatos.dll
+C:\Saskaroth\ADS\Asp.Net\Crud\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Saskaroth\ADS\Asp.Net\Crud\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\Usuario\Criar.cshtml.g.cs

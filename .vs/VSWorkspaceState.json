@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ControleDeContatos",
+    "\\ControleDeContatos\\ControleDeContatos",
+    "\\ControleDeContatos\\ControleDeContatos\\Controllers",
+    "\\ControleDeContatos\\ControleDeContatos\\Data",
+    "\\ControleDeContatos\\ControleDeContatos\\Models"
   ],
-  "SelectedNode": "\\ControleDeContatos.sln",
+  "SelectedNode": "\\ControleDeContatos\\ControleDeContatos\\Data\\BancoContent.cs",
   "PreviewInSolutionExplorer": false
 }
